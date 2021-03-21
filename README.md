@@ -3,7 +3,7 @@
 
 ## Direkt Davet: [Buraya Tıkla](https://www.blackfirebot.net/davet).
 `İşte Blackfire Bot için bildir! Bir sorun var ve ya talebinde bulunmaktan çekinmeyin!`
-`[Blackfire Bot](https://blackfirebot.net/) tüm hakları saklıdır. Projenin replika halini gördüğünüz yerde bildirmeyi unutmayın.`
+[Blackfire Bot](https://blackfirebot.net/)` tüm hakları saklıdır. Projenin replika halini gördüğünüz yerde bildirmeyi unutmayın.`
 `Discord.js çalışma örneği olarak sunulmuştur.  Resmi bot python yazılım dili olarak sunulmaktadır.`
 
 ## Blackfire Sitesine Gitmek İçin: [Buraya Tıkla](https://www.blackfirebot.net/)
