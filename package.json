@@ -1,0 +1,34 @@
+{
+  "author": "Soulfire",
+  "license": "Apache-2.0",
+  "keywords": [
+    "Blackfire",
+    "discord",
+    "bot",
+    "mod",
+	"blackfirebot",
+	"koruma bot",
+	"guard",
+	"discord müzik bot",
+    "Kayıt Bot"
+  ],
+  "name": "Blackfire",
+  "version": "2.0.0",
+  "description": "Blackfire Türkçe Discord Botu Javascript Edition Halidir. Tüm Hakları Saklıdır.",
+  "private": true,
+  "main": "Blackfire.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Blackfire.js"
+  },
+    "engines": {
+    "node": "12.x",
+    "npm": "6x"
+  },
+    "dependencies": {
+	"mariafire": "^1.2.0",
+    "discord.js": "^12.2.0",
+    "djs-commands": "^1.2.2",
+    "dotenv": "^8.2.0"
+  }
+  }
